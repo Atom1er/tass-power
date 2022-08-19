@@ -1,2 +1,0 @@
-# tass power
- 
