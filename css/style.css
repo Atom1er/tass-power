@@ -413,7 +413,7 @@ img{
     top: 75%;
     left: 50%;
     color: transparent;
-    content: "â€¢";
+    content: "_";
     text-shadow: transparent 0px 0px;
     font-size: 1.2em;
     transform: translateX(-50%);
@@ -2292,6 +2292,7 @@ img{
         margin-top: 0px;
         margin-bottom: 0px;
         background-color: #484848;
+        margin-left: 40%;
     }
     .navbar-toggle{
         left: 62%;
